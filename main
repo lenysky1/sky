@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SKY</title>
+    <link rel="stylesheet" href="andrei.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+
+</head>
+<body background="https://airwallpaper.com/wp-content/uploads/wall003/4k-Gaming-Wallpaper-Computer-scaled.jpg">
+    <div class="scroll-up-btn">
+        <i class="fas fa-angle-up"></i>
+    </div>
+    <nav class="navbar">
+        <div class="max-width">
+            <div class="logo"><a href="#">ANDREI |<span> SKY</span></a></div>
+            <ul class="menu">
+                <li><a href="#home" class="menu-btn">Home</a></li>
+                <li><a href="#about" class="menu-btn">About</a></li>
+                <li><a href="#services" class="menu-btn">Social</a></li>
+                <li><a href="#teams" class="menu-btn">Teams</a></li>
+            </ul>
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- home section start -->
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">Welcome</div>
+                <div class="text-2">TO ANDREI PROFILE</div>
+                <div class="text-3">And I'm a <span class="typing"></span></div>
+                <a href="https://discord.gg/zsQM96BBXD">Discord</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- about section start -->
+    <section class="about" id="about">
+        <div class="max-width">
+            <h2 class="title"><font color="white">About me</font></h2>
+            <div class="about-content">
+                <div class="column left">
+                    <img src="https://cdn.discordapp.com/avatars/756216838047662100/78416ba10e0f9c2bb6a5645aa86013e2.png?size=256" alt="">
+                </div>
+                <div class="column right">
+                    <div class="text"><z><font color="white">I'm ANDREI and I'm a </font></z><span class="typing-2"></span></div>
+                    <p><font color="white">For more details follow me on instagram</font></p>
+                    <a href="https://www.instagram.com/andreionea1/">Instagram</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- services section start -->
+    <section class="services" id="services">
+        <div class="max-width">
+            <h2 class="title">Find me</h2>
+            <div class="serv-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-paint-brush"></i>
+                        <div class="text">Discord Server</div>
+                        <p>Apasati butonul de la inceputul paginii pentru a intra pe server ul de discord</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-chart-line"></i>
+                        <div class="text">Youtube</div>
+                        <p>Andrei pe youtube</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">Instagram</div>
+                        <p>INSTAGRAM ACCOUNT: andreionea1</p>
+                    </div>
+                </div>
+               </div>
+            </div>
+        </div>
+    </section>
+    <!-- teams section start -->
+    <section class="teams" id="teams">
+        <div class="max-width">
+            <h2 class="title">My teams</h2>
+            <div class="carousel owl-carousel">
+                <div class="card">
+                    <div class="box">
+                        <a href="https://instagram.com/leny.sky">
+                        <img src="https://cdn.discordapp.com/avatars/693061640157134898/56e56eb64c416e567107f943450343ab.png?size=256" alt="">
+                        <div class="text">Leny Sky</div>
+                        <p>Fondator</p>
+                        </a>
+                        
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <a href="mano.html"><font color="white">
+                        <img src="https://cdn.discordapp.com/avatars/831083190256402443/1580bd2ebff47648f25e8d2d9b8f1145.png?size=256" alt="">
+                        <div class="text">Mano</div>
+                        <p>Co-fondator</p>
+                        </font>
+                        </a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <a href="ionut.html"><font color="white">
+                        <img src="https://cdn.discordapp.com/avatars/736959000708513912/2d37d34cc82cb59e6d5542a55a16a4c3.png?size=256" alt="">
+                        <div class="text">Ionut</div>
+                        <p>Co-fondator</p>
+                        </font>
+                        </a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <a href="andrei.html"><font color="white">
+                        <img src="https://cdn.discordapp.com/avatars/756216838047662100/78416ba10e0f9c2bb6a5645aa86013e2.png?size=256" alt="">
+                        <div class="text">Andrei</div>
+                        <p>Co-fondator</p>
+                        </font>
+                        </a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <a href="omu.html"><font color="white">
+                        <img src="https://cdn.discordapp.com/avatars/620641445958778890/ff908373a9bbbba8a77ed779510e4808.png?size=256" alt="">
+                        <div class="text">Omu Negru</div>
+                        <p>Angajat exploatat</p>
+                        </font>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- footer section start -->
+    <footer>
+        <span>Created By <a href="https://www.instagram.com/leny.sky/">SKY</a> | <span class="far fa-copyright"></span> 2022 All rights reserved.</span>
+    </footer>
+
+    <script src="andrei.js"></script>
+</body>
+</html>
